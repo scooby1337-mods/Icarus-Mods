@@ -1,0 +1,11 @@
+Ore Overhaul - Lithium and Ruby on all Maps
+by scooby1337
+
+Adds minable Lithium Ore and Ruby Ore nodes to the prospect maps Olympus, Styx and Prometheus,
+where they were previously only available on Elysium. Spawn weights are modeled on Elysium
+(Lithium mainly in caves, Ruby in arctic regions). No changes to existing ores.
+
+- Works in solo, co-op and on dedicated servers
+- Install on the server / host as well; joining players need the mod too
+
+Nexus Mods page: https://www.nexusmods.com/icarus/mods/351

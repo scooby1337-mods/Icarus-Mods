@@ -1,0 +1,17 @@
+Synthetic Miasma - Miasmic tools without a swamp
+by scooby1337
+
+On Olympus and Styx there is no swamp - and no Crystallised Miasma. This mod adds two recipes
+to the Chemistry Bench, so you can craft miasmic tools, arrows, bolts and ammo on every map:
+
+- Extract Venom: 3 Scorpion Tail -> 1 Venom Sac
+- Synthetic Miasma: 3 Poison Paste + 2 Poison Sac + 1 Venom Sac -> 1 Crystallised Miasma
+
+Ingredients:
+- Scorpion Tail: desert and arctic scorpions
+- Poison Paste: Mortar & Pestle (2 Spoiled Meat + 1 Sulfur)
+- Poison Sac: Cave Worms, Sulfur Worms, Land Sharks
+
+No existing recipes or items are changed. Works on dedicated servers (install on the server too).
+
+Nexus Mods page: https://www.nexusmods.com/icarus/mods/376
